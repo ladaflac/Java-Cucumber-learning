@@ -6,6 +6,8 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Created by Lada on 10.4.2016.
+ *
+ * proba za git 
  */
 public class UserTest {
 
